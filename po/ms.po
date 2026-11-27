@@ -1,0 +1,490 @@
+# Malay translation for linuxmint
+# Copyright (c) 2025 Rosetta Contributors and Canonical Ltd 2025
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2024-06-12 13:48+0100\n"
+"PO-Revision-Date: 2025-08-24 15:01+0000\n"
+"Last-Translator: Keviindran Ramachandran <Unknown>\n"
+"Language-Team: Malay <ms@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2026-11-24 12:01+0000\n"
+"X-Generator: Launchpad (build 012091084314157d19ae714f55ef4c582ff0feb5)\n"
+
+#: usr/lib/sticky/common.py:150 usr/lib/sticky/manager.py:300
+msgid "Export..."
+msgstr "Eksport..."
+
+#: usr/lib/sticky/common.py:151 usr/lib/sticky/common.py:175
+#: usr/lib/sticky/common.py:198 usr/lib/sticky/common.py:330
+msgid "Cancel"
+msgstr "Batal"
+
+#: usr/lib/sticky/common.py:151
+msgid "Save"
+msgstr "Simpan"
+
+#: usr/lib/sticky/common.py:162 usr/lib/sticky/common.py:184
+msgid "Plain Text"
+msgstr "Teks Biasa"
+
+#: usr/lib/sticky/common.py:174 usr/lib/sticky/manager.py:296
+msgid "Import..."
+msgstr "Import..."
+
+#: usr/lib/sticky/common.py:175
+msgid "Open"
+msgstr "Buka"
+
+#: usr/lib/sticky/common.py:197
+msgid "Restore Backup"
+msgstr "Pulihkan Sandaran"
+
+#: usr/lib/sticky/common.py:199
+msgid "Clear"
+msgstr "Kosongkan"
+
+#: usr/lib/sticky/common.py:200
+msgid "Restore"
+msgstr "Pulihkan"
+
+#: usr/lib/sticky/common.py:255
+msgid "Unable to restore: invalid or corrupted backup file"
+msgstr "Tidak dapat dipulihkan: fail sandaran tidak sah atau rosak"
+
+#: usr/lib/sticky/common.py:268
+msgid "Overwrite Existing Group"
+msgstr ""
+
+#: usr/lib/sticky/common.py:268
+#, python-format
+msgid ""
+"There is already a group named '%s'. This action will overwrite it. Continue "
+"anyway?"
+msgstr ""
+"Terdapat sudah kumpulan bernama '%s'. Tindakan ini akan menulis ganti "
+"kumpulan tersebut. Teruskan juga?"
+
+#: usr/lib/sticky/common.py:279 usr/lib/sticky/manager.py:280
+msgid "Remove Group"
+msgstr "Keluarkan Kumpulan"
+
+#: usr/lib/sticky/common.py:279
+#, python-format
+msgid "Are you sure you want to remove the group %s?"
+msgstr "Adakah anda pasti mahu mengeluarkan kumpulan %s?"
+
+#: usr/lib/sticky/common.py:331
+msgid "OK"
+msgstr "OK"
+
+#: usr/lib/sticky/common.py:354
+msgid "No"
+msgstr "Tidak"
+
+#: usr/lib/sticky/common.py:355
+msgid "Yes"
+msgstr "Ya"
+
+#: usr/lib/sticky/common.py:365
+msgid "Don't ask me again"
+msgstr "Jangan tanya saya lagi"
+
+#: usr/lib/sticky/manager.py:108
+msgid "New"
+msgstr "Baru"
+
+#: usr/lib/sticky/manager.py:113
+msgid "Edit"
+msgstr "Sunting"
+
+#: usr/lib/sticky/manager.py:117
+msgid "Remove"
+msgstr "Buang"
+
+#: usr/lib/sticky/manager.py:222
+msgid "Untitled"
+msgstr "Tidak bertajuk"
+
+#: usr/lib/sticky/manager.py:276
+msgid "New Group"
+msgstr "Kumpulan Baru"
+
+#: usr/lib/sticky/manager.py:286
+msgid "Back Up"
+msgstr "Sandar"
+
+#: usr/lib/sticky/manager.py:290
+msgid "Restore Backups..."
+msgstr "Pulihkan Sandaran..."
+
+#: usr/lib/sticky/manager.py:306 usr/lib/sticky/sticky.py:603
+#: usr/lib/sticky/sticky.py:919
+msgid "Preferences"
+msgstr "Keutamaan"
+
+#: usr/lib/sticky/manager.py:310
+msgid "Keyboard Shortcuts"
+msgstr "Pintasan Papan Kekunci"
+
+#: usr/lib/sticky/manager.py:315 usr/lib/sticky/sticky.py:1156
+msgid "About"
+msgstr "Tentang"
+
+#: usr/lib/sticky/sticky.py:47
+msgid "Small Text"
+msgstr "Teks Kecil"
+
+#: usr/lib/sticky/sticky.py:48
+msgid "Normal Text"
+msgstr "Teks Biasa"
+
+#: usr/lib/sticky/sticky.py:49
+msgid "Large Text"
+msgstr "Teks Besar"
+
+#: usr/lib/sticky/sticky.py:50
+msgid "Larger Text"
+msgstr "Teks Lebih Besar"
+
+#: usr/lib/sticky/sticky.py:54
+msgid "Red"
+msgstr "Merah"
+
+#: usr/lib/sticky/sticky.py:55
+msgid "Green"
+msgstr "Hijau"
+
+#: usr/lib/sticky/sticky.py:56
+msgid "Blue"
+msgstr "Biru"
+
+#: usr/lib/sticky/sticky.py:57
+msgid "Yellow"
+msgstr "Kuning"
+
+#: usr/lib/sticky/sticky.py:58
+msgid "Purple"
+msgstr "Ungu"
+
+#: usr/lib/sticky/sticky.py:59
+msgid "Teal"
+msgstr "Teal"
+
+#: usr/lib/sticky/sticky.py:60
+msgid "Orange"
+msgstr "Jingga"
+
+#: usr/lib/sticky/sticky.py:61
+msgid "Magenta"
+msgstr "Magenta"
+
+#: usr/lib/sticky/sticky.py:76
+msgid "Operations"
+msgstr "Operasi"
+
+#: usr/lib/sticky/sticky.py:77
+msgid "Move selection up"
+msgstr "Pindahkan pilihan ke atas"
+
+#: usr/lib/sticky/sticky.py:78
+msgid "Move selection down"
+msgstr "Pindahkan pilihan ke bawah"
+
+#: usr/lib/sticky/sticky.py:79
+msgid "Undo"
+msgstr "Buat asal"
+
+#: usr/lib/sticky/sticky.py:80
+msgid "Redo"
+msgstr "Buat semula"
+
+#: usr/lib/sticky/sticky.py:81 usr/lib/sticky/sticky.py:516
+msgid "Toggle Checklist"
+msgstr "Togol Senarai Semak"
+
+#: usr/lib/sticky/sticky.py:82 usr/lib/sticky/sticky.py:520
+msgid "Toggle Bullets"
+msgstr ""
+
+#: usr/lib/sticky/sticky.py:84
+msgid "Formatting"
+msgstr "Memformat"
+
+#: usr/lib/sticky/sticky.py:85 usr/lib/sticky/sticky.py:471
+#: usr/lib/sticky/sticky.py:472
+msgid "Bold"
+msgstr "Tebal"
+
+#: usr/lib/sticky/sticky.py:86 usr/lib/sticky/sticky.py:476
+#: usr/lib/sticky/sticky.py:477
+msgid "Italic"
+msgstr "Condong"
+
+#: usr/lib/sticky/sticky.py:87 usr/lib/sticky/sticky.py:481
+#: usr/lib/sticky/sticky.py:482
+msgid "Fixed Width"
+msgstr "Lebar Tetap"
+
+#: usr/lib/sticky/sticky.py:88 usr/lib/sticky/sticky.py:486
+#: usr/lib/sticky/sticky.py:487
+msgid "Underline"
+msgstr "Garis Bawah"
+
+#: usr/lib/sticky/sticky.py:89 usr/lib/sticky/sticky.py:491
+#: usr/lib/sticky/sticky.py:492
+msgid "Strikethrough"
+msgstr "Coret tembus"
+
+#: usr/lib/sticky/sticky.py:90 usr/lib/sticky/sticky.py:496
+#: usr/lib/sticky/sticky.py:497
+msgid "Highlight"
+msgstr "Sorot"
+
+#: usr/lib/sticky/sticky.py:91 usr/lib/sticky/sticky.py:501
+#: usr/lib/sticky/sticky.py:502
+msgid "Header"
+msgstr "Pengepala"
+
+#: usr/lib/sticky/sticky.py:96
+msgid "Top Left"
+msgstr "Kiri Atas"
+
+#: usr/lib/sticky/sticky.py:97
+msgid "Top Center"
+msgstr "Tengah Atas"
+
+#: usr/lib/sticky/sticky.py:98
+msgid "Top Right"
+msgstr "Kanan Atas"
+
+#: usr/lib/sticky/sticky.py:99
+msgid "Center Left"
+msgstr "Kiri Tengah"
+
+#: usr/lib/sticky/sticky.py:100
+msgid "Center"
+msgstr "Tengah"
+
+#: usr/lib/sticky/sticky.py:101
+msgid "Center Right"
+msgstr "Kanan Tengah"
+
+#: usr/lib/sticky/sticky.py:102
+msgid "Bottom Left"
+msgstr "Kiri Bawah"
+
+#: usr/lib/sticky/sticky.py:103
+msgid "Bottom Center"
+msgstr "Tengah Bawah"
+
+#: usr/lib/sticky/sticky.py:104
+msgid "Bottom Right"
+msgstr "Kanan Bawah"
+
+#: usr/lib/sticky/sticky.py:172
+msgid "Note Color"
+msgstr "Warna Nota"
+
+#: usr/lib/sticky/sticky.py:189
+msgid "Rename"
+msgstr "Namakan semula"
+
+#: usr/lib/sticky/sticky.py:197 usr/lib/sticky/sticky.py:428
+#: usr/lib/sticky/sticky.py:547
+msgid "Delete Note"
+msgstr "Padam Nota"
+
+#: usr/lib/sticky/sticky.py:204 usr/lib/sticky/sticky.py:899
+msgid "New Note"
+msgstr "Nota Baru"
+
+#: usr/lib/sticky/sticky.py:210
+msgid "Format"
+msgstr "Format"
+
+#: usr/lib/sticky/sticky.py:409
+msgid "undo"
+msgstr "buat asal"
+
+#: usr/lib/sticky/sticky.py:413
+msgid "redo"
+msgstr "buat semula"
+
+#: usr/lib/sticky/sticky.py:419
+msgid "Set Title"
+msgstr "Tetapkan Tajuk"
+
+#: usr/lib/sticky/sticky.py:419
+msgid "Edit Title"
+msgstr "Sunting Tajuk"
+
+#: usr/lib/sticky/sticky.py:424
+msgid "Duplicate Note"
+msgstr "Nota Pendua"
+
+#: usr/lib/sticky/sticky.py:436
+msgid "Only on This Workspace"
+msgstr "Hanya pada Ruang Kerja Ini"
+
+#: usr/lib/sticky/sticky.py:440
+msgid "Always on Visible Workspace"
+msgstr "Sentiasa pada Ruang Kerja Kelihatan"
+
+#: usr/lib/sticky/sticky.py:452
+msgid "Always on Top"
+msgstr "Sentiasa di Atas"
+
+#: usr/lib/sticky/sticky.py:547
+msgid "Are you sure you want to remove this note?"
+msgstr "Adakah anda pasti mahu mengeluarkan nota ini?"
+
+#: usr/lib/sticky/sticky.py:607
+msgid "Show notes on all desktops"
+msgstr "Paparkan nota di semua desktop"
+
+#: usr/lib/sticky/sticky.py:608
+msgid "Show in taskbar"
+msgstr "Paparkan di bar tugas"
+
+#: usr/lib/sticky/sticky.py:609
+msgid "Tray icon"
+msgstr "Dulang ikon"
+
+#: usr/lib/sticky/sticky.py:610
+msgid "Show the main window automatically"
+msgstr "Paparkan tetingkap utama secara automatik"
+
+#: usr/lib/sticky/sticky.py:611
+msgid "General"
+msgstr "Umum"
+
+#: usr/lib/sticky/sticky.py:615
+msgid "Default height"
+msgstr "Tinggi lalai"
+
+#: usr/lib/sticky/sticky.py:616
+msgid "Default width"
+msgstr "Lebar lalai"
+
+#: usr/lib/sticky/sticky.py:618
+msgid "Default position"
+msgstr "Kedudukan lalai"
+
+#: usr/lib/sticky/sticky.py:622 usr/lib/sticky/sticky.py:627
+msgid "Cycle Colors"
+msgstr "Kitar Warna"
+
+#: usr/lib/sticky/sticky.py:624 usr/lib/sticky/sticky.py:629
+msgid "Default color"
+msgstr "Warna lalai"
+
+#: usr/lib/sticky/sticky.py:631
+msgid "Font"
+msgstr "Fon"
+
+#: usr/lib/sticky/sticky.py:632
+msgid "Show spelling mistakes"
+msgstr "Paparkan kesilapan ejaan"
+
+#: usr/lib/sticky/sticky.py:634 usr/lib/sticky/sticky.py:754
+#: usr/lib/sticky/sticky.py:851 usr/lib/sticky/sticky.py:883
+#: usr/lib/sticky/sticky.py:1157 usr/share/sticky/manager.ui.h:1
+msgid "Notes"
+msgstr "Nota"
+
+#: usr/lib/sticky/sticky.py:639
+msgid "Automatic backups"
+msgstr "Sandaran automatik"
+
+#: usr/lib/sticky/sticky.py:640
+msgid "Time between backups"
+msgstr "Masa antara sandaran"
+
+#: usr/lib/sticky/sticky.py:640
+msgid "hours"
+msgstr "jam"
+
+#: usr/lib/sticky/sticky.py:641
+msgid "Set this to zero if you wish to keep all backups indefinitely"
+msgstr ""
+"Tetapkan ini kepada sifar jika anda ingin mengekalkan semua sandaran tanpa "
+"had"
+
+#: usr/lib/sticky/sticky.py:642
+msgid "Number to keep"
+msgstr "Bilangan untuk disimpan"
+
+#: usr/lib/sticky/sticky.py:644
+msgid "Backups"
+msgstr "Sandaran"
+
+#: usr/lib/sticky/sticky.py:648
+msgid "Start automatically"
+msgstr "Mula secara automatik"
+
+#: usr/lib/sticky/sticky.py:649
+msgid "Show notes on the screen"
+msgstr "Paparkan nota di skrin"
+
+#: usr/lib/sticky/sticky.py:650
+msgid "Automatic start"
+msgstr "Mula automatik"
+
+#: usr/lib/sticky/sticky.py:668
+msgid "Text Size"
+msgstr "Saiz Teks"
+
+#: usr/lib/sticky/sticky.py:852
+msgid ""
+"Would you like to import your notes from Gnote? This will not change your "
+"Gnote notes in any way."
+msgstr ""
+"Adakah anda ingin mengimport nota anda dari Gnote? Ini tidak akan mengubah "
+"nota Gnote anda dalam apa jua cara."
+
+#: usr/lib/sticky/sticky.py:875
+msgid "Group 1"
+msgstr "Kumpulan 1"
+
+#: usr/lib/sticky/sticky.py:884
+msgid "Left click to toggle notes"
+msgstr ""
+
+#: usr/lib/sticky/sticky.py:885
+msgid "Middle click to toggle the manager"
+msgstr ""
+
+#: usr/lib/sticky/sticky.py:903
+msgid "Manage Notes"
+msgstr "Urus Nota"
+
+#: usr/lib/sticky/sticky.py:925
+msgid "Quit"
+msgstr "Keluar"
+
+#: usr/lib/sticky/sticky.py:1158 usr/share/sticky/manager.ui.h:2
+msgid "Take notes and stay organized"
+msgstr "Buat nota dan kekal teratur"
+
+#: usr/lib/sticky/util.py:79
+msgid "Unfiled"
+msgstr "Belum difailkan"
+
+#: usr/share/sticky/manager.ui.h:3
+msgid "New note"
+msgstr "Nota baru"
+
+#: usr/share/sticky/manager.ui.h:4
+msgid "Remove selected note"
+msgstr "Keluarkan nota yang dipilih"
+
+#: usr/share/sticky/manager.ui.h:5
+msgid "Duplicate selected note"
+msgstr "Pendua nota yang dipilih"

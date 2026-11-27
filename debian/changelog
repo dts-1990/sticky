@@ -1,3 +1,77 @@
+sticky (1.35) adrien; urgency=medium
+
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 24 Nov 2026 16:29:11 +0000
+
+sticky (1.34) adrien; urgency=medium
+
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 16 Nov 2026 13:47:16 +0000
+
+sticky (1.33) adrien; urgency=medium
+
+  [ Balló György ]
+  * Set window icon (#168)
+  * Set license type on about dialog (#169)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 13 Oct 2026 15:06:41 +0100
+
+sticky (1.32) alfa; urgency=medium
+
+  [ Michael Webster ]
+  * /usr/bin/sticky: Restrict to x11 backend.
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 19 Aug 2026 14:51:00 +0200
+
+sticky (1.31) zena; urgency=medium
+
+  [ Michael Webster ]
+  * .github/workflows: Add generate-test-packages trigger.
+
+  [ Stephen Collins ]
+  * Context menu: fix note groups getting 'stuck' or not updating properly
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 18 May 2026 14:10:15 +0100
+
+sticky (1.30) zena; urgency=medium
+
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 08 Jan 2026 16:19:17 +0000
+
+sticky (1.29) zena; urgency=medium
+
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 12 Dec 2025 17:02:26 +0000
+
+sticky (1.28) zena; urgency=medium
+
+  [ Stephen Collins ]
+  * sticky.py: ensure new notes don't get placed off-screen or over a panel.
+  * Don't segfault when opening and closing the status icon context menu.
+  * get_internal_markup(): don't skip a tag due to removing it from a list.
+
+  [ Clement Lefebvre ]
+  * Switch to XApp symbolic icons
+  * Switch to xapp-symbolic-icons (XSI)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 19 Nov 2025 15:26:19 +0000
+
+sticky (1.27) zara; urgency=medium
+
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 26 Aug 2025 17:59:17 +0200
+
+sticky (1.26) zara; urgency=medium
+
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 31 Jul 2025 12:31:00 +0200
+
 sticky (1.25) zara; urgency=medium
 
   [ gbygrave ]

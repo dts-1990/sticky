@@ -1,0 +1,491 @@
+# Latvian translation for linuxmint
+# Copyright (c) 2025 Rosetta Contributors and Canonical Ltd 2025
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2024-06-12 13:48+0100\n"
+"PO-Revision-Date: 2025-12-25 12:12+0000\n"
+"Last-Translator: K9 <Unknown>\n"
+"Language-Team: Latvian <lv@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2026-11-24 12:01+0000\n"
+"X-Generator: Launchpad (build 012091084314157d19ae714f55ef4c582ff0feb5)\n"
+"Language: lv\n"
+
+#: usr/lib/sticky/common.py:150 usr/lib/sticky/manager.py:300
+msgid "Export..."
+msgstr "Eksportēt..."
+
+#: usr/lib/sticky/common.py:151 usr/lib/sticky/common.py:175
+#: usr/lib/sticky/common.py:198 usr/lib/sticky/common.py:330
+msgid "Cancel"
+msgstr "Atcelt"
+
+#: usr/lib/sticky/common.py:151
+msgid "Save"
+msgstr "Saglabāt"
+
+#: usr/lib/sticky/common.py:162 usr/lib/sticky/common.py:184
+msgid "Plain Text"
+msgstr "Vienkāršs teksts"
+
+#: usr/lib/sticky/common.py:174 usr/lib/sticky/manager.py:296
+msgid "Import..."
+msgstr "Importēt..."
+
+#: usr/lib/sticky/common.py:175
+msgid "Open"
+msgstr "Atvērt"
+
+#: usr/lib/sticky/common.py:197
+msgid "Restore Backup"
+msgstr "Atjaunot dublējumu"
+
+#: usr/lib/sticky/common.py:199
+msgid "Clear"
+msgstr "Notīrīt"
+
+#: usr/lib/sticky/common.py:200
+msgid "Restore"
+msgstr "Atjaunot"
+
+#: usr/lib/sticky/common.py:255
+msgid "Unable to restore: invalid or corrupted backup file"
+msgstr "Nevar atjaunot: nederīgs vai bojāts dublējuma fails"
+
+#: usr/lib/sticky/common.py:268
+msgid "Overwrite Existing Group"
+msgstr "Pārrakstīt esošo grupu"
+
+#: usr/lib/sticky/common.py:268
+#, python-format
+msgid ""
+"There is already a group named '%s'. This action will overwrite it. Continue "
+"anyway?"
+msgstr ""
+"Grupa ar nosaukumu '%s' jau pastāv. Šī darbība to pārrakstīs. Vai tomēr "
+"turpināt?"
+
+#: usr/lib/sticky/common.py:279 usr/lib/sticky/manager.py:280
+msgid "Remove Group"
+msgstr "Noņemt grupu"
+
+#: usr/lib/sticky/common.py:279
+#, python-format
+msgid "Are you sure you want to remove the group %s?"
+msgstr "Vai tiešām vēlies noņemt grupu %s?"
+
+#: usr/lib/sticky/common.py:331
+msgid "OK"
+msgstr "LABI"
+
+#: usr/lib/sticky/common.py:354
+msgid "No"
+msgstr "Nē"
+
+#: usr/lib/sticky/common.py:355
+msgid "Yes"
+msgstr "Jā"
+
+#: usr/lib/sticky/common.py:365
+msgid "Don't ask me again"
+msgstr "Vairs nejautāt"
+
+#: usr/lib/sticky/manager.py:108
+msgid "New"
+msgstr "Jauns"
+
+#: usr/lib/sticky/manager.py:113
+msgid "Edit"
+msgstr "Rediģēt"
+
+#: usr/lib/sticky/manager.py:117
+msgid "Remove"
+msgstr "Noņemt"
+
+#: usr/lib/sticky/manager.py:222
+msgid "Untitled"
+msgstr "Bez nosaukuma"
+
+#: usr/lib/sticky/manager.py:276
+msgid "New Group"
+msgstr "Jauna grupa"
+
+#: usr/lib/sticky/manager.py:286
+msgid "Back Up"
+msgstr "Dublēt"
+
+#: usr/lib/sticky/manager.py:290
+msgid "Restore Backups..."
+msgstr "Atjaunot dublējumus..."
+
+#: usr/lib/sticky/manager.py:306 usr/lib/sticky/sticky.py:603
+#: usr/lib/sticky/sticky.py:919
+msgid "Preferences"
+msgstr "Iestatījumi"
+
+#: usr/lib/sticky/manager.py:310
+msgid "Keyboard Shortcuts"
+msgstr "Tastatūras saīsnes"
+
+#: usr/lib/sticky/manager.py:315 usr/lib/sticky/sticky.py:1156
+msgid "About"
+msgstr "Par"
+
+#: usr/lib/sticky/sticky.py:47
+msgid "Small Text"
+msgstr "Mazs teksts"
+
+#: usr/lib/sticky/sticky.py:48
+msgid "Normal Text"
+msgstr "Parasts teksts"
+
+#: usr/lib/sticky/sticky.py:49
+msgid "Large Text"
+msgstr "Liels teksts"
+
+#: usr/lib/sticky/sticky.py:50
+msgid "Larger Text"
+msgstr "Lielāks teksts"
+
+#: usr/lib/sticky/sticky.py:54
+msgid "Red"
+msgstr "Sarkans"
+
+#: usr/lib/sticky/sticky.py:55
+msgid "Green"
+msgstr "Zaļš"
+
+#: usr/lib/sticky/sticky.py:56
+msgid "Blue"
+msgstr "Zils"
+
+#: usr/lib/sticky/sticky.py:57
+msgid "Yellow"
+msgstr "Dzeltens"
+
+#: usr/lib/sticky/sticky.py:58
+msgid "Purple"
+msgstr "Violets"
+
+#: usr/lib/sticky/sticky.py:59
+msgid "Teal"
+msgstr "Zilganzaļš"
+
+#: usr/lib/sticky/sticky.py:60
+msgid "Orange"
+msgstr "Oranžs"
+
+#: usr/lib/sticky/sticky.py:61
+msgid "Magenta"
+msgstr "Purpursarkans"
+
+#: usr/lib/sticky/sticky.py:76
+msgid "Operations"
+msgstr "Darbības"
+
+#: usr/lib/sticky/sticky.py:77
+msgid "Move selection up"
+msgstr "Pārvietot atlasi uz augšu"
+
+#: usr/lib/sticky/sticky.py:78
+msgid "Move selection down"
+msgstr "Pārvietot atlasi uz leju"
+
+#: usr/lib/sticky/sticky.py:79
+msgid "Undo"
+msgstr "Atsaukt"
+
+#: usr/lib/sticky/sticky.py:80
+msgid "Redo"
+msgstr "Atcelt atsaukšanu"
+
+#: usr/lib/sticky/sticky.py:81 usr/lib/sticky/sticky.py:516
+msgid "Toggle Checklist"
+msgstr "Pārslēgt kontrolsarakstu"
+
+#: usr/lib/sticky/sticky.py:82 usr/lib/sticky/sticky.py:520
+msgid "Toggle Bullets"
+msgstr "Pārslēgt aizzīmes"
+
+#: usr/lib/sticky/sticky.py:84
+msgid "Formatting"
+msgstr "Formatēšana"
+
+#: usr/lib/sticky/sticky.py:85 usr/lib/sticky/sticky.py:471
+#: usr/lib/sticky/sticky.py:472
+msgid "Bold"
+msgstr "Treknraksts"
+
+#: usr/lib/sticky/sticky.py:86 usr/lib/sticky/sticky.py:476
+#: usr/lib/sticky/sticky.py:477
+msgid "Italic"
+msgstr "Slīpraksts"
+
+#: usr/lib/sticky/sticky.py:87 usr/lib/sticky/sticky.py:481
+#: usr/lib/sticky/sticky.py:482
+msgid "Fixed Width"
+msgstr "Fiksēts platums"
+
+#: usr/lib/sticky/sticky.py:88 usr/lib/sticky/sticky.py:486
+#: usr/lib/sticky/sticky.py:487
+msgid "Underline"
+msgstr "Pasvītrot"
+
+#: usr/lib/sticky/sticky.py:89 usr/lib/sticky/sticky.py:491
+#: usr/lib/sticky/sticky.py:492
+msgid "Strikethrough"
+msgstr "Pārsvītrojums"
+
+#: usr/lib/sticky/sticky.py:90 usr/lib/sticky/sticky.py:496
+#: usr/lib/sticky/sticky.py:497
+msgid "Highlight"
+msgstr "Izcelt"
+
+#: usr/lib/sticky/sticky.py:91 usr/lib/sticky/sticky.py:501
+#: usr/lib/sticky/sticky.py:502
+msgid "Header"
+msgstr "Galvene"
+
+#: usr/lib/sticky/sticky.py:96
+msgid "Top Left"
+msgstr "Augšā pa kreisi"
+
+#: usr/lib/sticky/sticky.py:97
+msgid "Top Center"
+msgstr "Augšā centrā"
+
+#: usr/lib/sticky/sticky.py:98
+msgid "Top Right"
+msgstr "Augšā pa labi"
+
+#: usr/lib/sticky/sticky.py:99
+msgid "Center Left"
+msgstr "Centrēt pa kreisi"
+
+#: usr/lib/sticky/sticky.py:100
+msgid "Center"
+msgstr "Centrēt"
+
+#: usr/lib/sticky/sticky.py:101
+msgid "Center Right"
+msgstr "Centrēt pa labi"
+
+#: usr/lib/sticky/sticky.py:102
+msgid "Bottom Left"
+msgstr "Apakšā pa kreisi"
+
+#: usr/lib/sticky/sticky.py:103
+msgid "Bottom Center"
+msgstr "Apakšā centrā"
+
+#: usr/lib/sticky/sticky.py:104
+msgid "Bottom Right"
+msgstr "Apakšā pa labi"
+
+#: usr/lib/sticky/sticky.py:172
+msgid "Note Color"
+msgstr "Piezīmes krāsa"
+
+#: usr/lib/sticky/sticky.py:189
+msgid "Rename"
+msgstr "Pārdēvēt"
+
+#: usr/lib/sticky/sticky.py:197 usr/lib/sticky/sticky.py:428
+#: usr/lib/sticky/sticky.py:547
+msgid "Delete Note"
+msgstr "Dzēst piezīmi"
+
+#: usr/lib/sticky/sticky.py:204 usr/lib/sticky/sticky.py:899
+msgid "New Note"
+msgstr "Jauna piezīme"
+
+#: usr/lib/sticky/sticky.py:210
+msgid "Format"
+msgstr "Formāts"
+
+#: usr/lib/sticky/sticky.py:409
+msgid "undo"
+msgstr "atsaukt"
+
+#: usr/lib/sticky/sticky.py:413
+msgid "redo"
+msgstr "atcelt atsaukšanu"
+
+#: usr/lib/sticky/sticky.py:419
+msgid "Set Title"
+msgstr "Nosaukums"
+
+#: usr/lib/sticky/sticky.py:419
+msgid "Edit Title"
+msgstr "Rediģēt nosaukumu"
+
+#: usr/lib/sticky/sticky.py:424
+msgid "Duplicate Note"
+msgstr "Piezīmes dublēšana"
+
+#: usr/lib/sticky/sticky.py:436
+msgid "Only on This Workspace"
+msgstr "Tikai šajā darbvietā"
+
+#: usr/lib/sticky/sticky.py:440
+msgid "Always on Visible Workspace"
+msgstr "Vienmēr redzamā darbvietā"
+
+#: usr/lib/sticky/sticky.py:452
+msgid "Always on Top"
+msgstr "Vienmēr augšpusē"
+
+#: usr/lib/sticky/sticky.py:547
+msgid "Are you sure you want to remove this note?"
+msgstr "Vai tiešām vēlies noņemt šo piezīmi?"
+
+#: usr/lib/sticky/sticky.py:607
+msgid "Show notes on all desktops"
+msgstr "Rādīt piezīmes visās darbvirsmās"
+
+#: usr/lib/sticky/sticky.py:608
+msgid "Show in taskbar"
+msgstr "Rādīt uzdevumjoslā"
+
+#: usr/lib/sticky/sticky.py:609
+msgid "Tray icon"
+msgstr "Teknes ikona"
+
+#: usr/lib/sticky/sticky.py:610
+msgid "Show the main window automatically"
+msgstr "Automātiski rādīt galveno logu"
+
+#: usr/lib/sticky/sticky.py:611
+msgid "General"
+msgstr "Vispārīgi"
+
+#: usr/lib/sticky/sticky.py:615
+msgid "Default height"
+msgstr "Noklusējuma augstums"
+
+#: usr/lib/sticky/sticky.py:616
+msgid "Default width"
+msgstr "Noklusējuma platums"
+
+#: usr/lib/sticky/sticky.py:618
+msgid "Default position"
+msgstr "Noklusējuma pozīcija"
+
+#: usr/lib/sticky/sticky.py:622 usr/lib/sticky/sticky.py:627
+msgid "Cycle Colors"
+msgstr "Ciklēt krāsas"
+
+#: usr/lib/sticky/sticky.py:624 usr/lib/sticky/sticky.py:629
+msgid "Default color"
+msgstr "Noklusējuma krāsa"
+
+#: usr/lib/sticky/sticky.py:631
+msgid "Font"
+msgstr "Fonts"
+
+#: usr/lib/sticky/sticky.py:632
+msgid "Show spelling mistakes"
+msgstr "Rādīt pareizrakstības kļūdas"
+
+#: usr/lib/sticky/sticky.py:634 usr/lib/sticky/sticky.py:754
+#: usr/lib/sticky/sticky.py:851 usr/lib/sticky/sticky.py:883
+#: usr/lib/sticky/sticky.py:1157 usr/share/sticky/manager.ui.h:1
+msgid "Notes"
+msgstr "Piezīmes"
+
+#: usr/lib/sticky/sticky.py:639
+msgid "Automatic backups"
+msgstr "Automātiskās rezerves kopijas"
+
+#: usr/lib/sticky/sticky.py:640
+msgid "Time between backups"
+msgstr "Laiks starp dublējumiem"
+
+#: usr/lib/sticky/sticky.py:640
+msgid "hours"
+msgstr "stundas"
+
+#: usr/lib/sticky/sticky.py:641
+msgid "Set this to zero if you wish to keep all backups indefinitely"
+msgstr ""
+"Iestati šo uz nulli, ja vēlies saglabāt visus rezerves kopijas uz nenoteiktu "
+"laiku"
+
+#: usr/lib/sticky/sticky.py:642
+msgid "Number to keep"
+msgstr "Dublēto kopiju skaits, ko paturēt"
+
+#: usr/lib/sticky/sticky.py:644
+msgid "Backups"
+msgstr "Dublējumi"
+
+#: usr/lib/sticky/sticky.py:648
+msgid "Start automatically"
+msgstr "Sākt automātiski"
+
+#: usr/lib/sticky/sticky.py:649
+msgid "Show notes on the screen"
+msgstr "Rādīt piezīmes uz ekrāna"
+
+#: usr/lib/sticky/sticky.py:650
+msgid "Automatic start"
+msgstr "Automātiska palaišana"
+
+#: usr/lib/sticky/sticky.py:668
+msgid "Text Size"
+msgstr "Teksta izmērs"
+
+#: usr/lib/sticky/sticky.py:852
+msgid ""
+"Would you like to import your notes from Gnote? This will not change your "
+"Gnote notes in any way."
+msgstr ""
+"Vai vēlies importēt savas piezīmes no Gnote? Tas nekādā veidā nemainīs tavas "
+"Gnote piezīmes."
+
+#: usr/lib/sticky/sticky.py:875
+msgid "Group 1"
+msgstr "Grupa 1"
+
+#: usr/lib/sticky/sticky.py:884
+msgid "Left click to toggle notes"
+msgstr "Kreisais klikšķis, lai pārslēgtos uz piezīmēm"
+
+#: usr/lib/sticky/sticky.py:885
+msgid "Middle click to toggle the manager"
+msgstr "Vidējais klikšķis, lai pārslēgtos uz pārvaldnieku"
+
+#: usr/lib/sticky/sticky.py:903
+msgid "Manage Notes"
+msgstr "Pārvaldīt piezīmes"
+
+#: usr/lib/sticky/sticky.py:925
+msgid "Quit"
+msgstr "Iziet"
+
+#: usr/lib/sticky/sticky.py:1158 usr/share/sticky/manager.ui.h:2
+msgid "Take notes and stay organized"
+msgstr "Veic piezīmes un saglabā organizētību"
+
+#: usr/lib/sticky/util.py:79
+msgid "Unfiled"
+msgstr "Neaizpildīts"
+
+#: usr/share/sticky/manager.ui.h:3
+msgid "New note"
+msgstr "Jauna piezīme"
+
+#: usr/share/sticky/manager.ui.h:4
+msgid "Remove selected note"
+msgstr "Noņemt atlasīto piezīmi"
+
+#: usr/share/sticky/manager.ui.h:5
+msgid "Duplicate selected note"
+msgstr "Dublēt atlasīto piezīmi"

@@ -1,0 +1,486 @@
+# Lao translation for linuxmint
+# Copyright (c) 2025 Rosetta Contributors and Canonical Ltd 2025
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2024-06-12 13:48+0100\n"
+"PO-Revision-Date: 2025-10-12 14:00+0000\n"
+"Last-Translator: boneni <Unknown>\n"
+"Language-Team: Lao <lo@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2026-11-24 12:01+0000\n"
+"X-Generator: Launchpad (build 012091084314157d19ae714f55ef4c582ff0feb5)\n"
+
+#: usr/lib/sticky/common.py:150 usr/lib/sticky/manager.py:300
+msgid "Export..."
+msgstr "ສົ່ງອອກ..."
+
+#: usr/lib/sticky/common.py:151 usr/lib/sticky/common.py:175
+#: usr/lib/sticky/common.py:198 usr/lib/sticky/common.py:330
+msgid "Cancel"
+msgstr "ຍົກເລີກ"
+
+#: usr/lib/sticky/common.py:151
+msgid "Save"
+msgstr "ບັນທຶກ"
+
+#: usr/lib/sticky/common.py:162 usr/lib/sticky/common.py:184
+msgid "Plain Text"
+msgstr "ຂໍ້ຄວາມທຳມະດາ"
+
+#: usr/lib/sticky/common.py:174 usr/lib/sticky/manager.py:296
+msgid "Import..."
+msgstr "ນຳເຂົ້າ..."
+
+#: usr/lib/sticky/common.py:175
+msgid "Open"
+msgstr "ເປີດ"
+
+#: usr/lib/sticky/common.py:197
+msgid "Restore Backup"
+msgstr "ກູ້ຄືນຂໍ້ມູນສຳຮອງ"
+
+#: usr/lib/sticky/common.py:199
+msgid "Clear"
+msgstr "ລຶບລ້າງ"
+
+#: usr/lib/sticky/common.py:200
+msgid "Restore"
+msgstr "ກູ້ຄືນ"
+
+#: usr/lib/sticky/common.py:255
+msgid "Unable to restore: invalid or corrupted backup file"
+msgstr "ບໍ່ສາມາດກູ້ຄືນ: ໄຟລ໌ສຳຮອງບໍ່ຖືກຕ້ອງ ຫຼື ເສຍຫາຍ"
+
+#: usr/lib/sticky/common.py:268
+msgid "Overwrite Existing Group"
+msgstr "ຂຽນທັບກຸ່ມທີ່ມີຢູ່ແລ້ວ"
+
+#: usr/lib/sticky/common.py:268
+#, python-format
+msgid ""
+"There is already a group named '%s'. This action will overwrite it. Continue "
+"anyway?"
+msgstr "ມີກຸ່ມຊື່ '%s' ຢູ່ແລ້ວ. ການກະທຳນີ້ຈະຂຽນທັບມັນ. ດຳເນີນການຕໍ່ໄປບໍ່?"
+
+#: usr/lib/sticky/common.py:279 usr/lib/sticky/manager.py:280
+msgid "Remove Group"
+msgstr "ລຶບກຸ່ມ"
+
+#: usr/lib/sticky/common.py:279
+#, python-format
+msgid "Are you sure you want to remove the group %s?"
+msgstr "ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບກຸ່ມ %s?"
+
+#: usr/lib/sticky/common.py:331
+msgid "OK"
+msgstr "ຕົກລົງ"
+
+#: usr/lib/sticky/common.py:354
+msgid "No"
+msgstr "ບໍ່"
+
+#: usr/lib/sticky/common.py:355
+msgid "Yes"
+msgstr "ແມ່ນ"
+
+#: usr/lib/sticky/common.py:365
+msgid "Don't ask me again"
+msgstr "ບໍ່ຕ້ອງຖາມອີກ"
+
+#: usr/lib/sticky/manager.py:108
+msgid "New"
+msgstr "ໃໝ່"
+
+#: usr/lib/sticky/manager.py:113
+msgid "Edit"
+msgstr "ແກ້ໄຂ"
+
+#: usr/lib/sticky/manager.py:117
+msgid "Remove"
+msgstr "ລຶບ"
+
+#: usr/lib/sticky/manager.py:222
+msgid "Untitled"
+msgstr "ບໍ່ມີຊື່"
+
+#: usr/lib/sticky/manager.py:276
+msgid "New Group"
+msgstr "ກຸ່ມໃໝ່"
+
+#: usr/lib/sticky/manager.py:286
+msgid "Back Up"
+msgstr "ສຳຮອງຂໍ້ມູນ"
+
+#: usr/lib/sticky/manager.py:290
+msgid "Restore Backups..."
+msgstr "ກູ້ຄືນຂໍ້ມູນສຳຮອງ..."
+
+#: usr/lib/sticky/manager.py:306 usr/lib/sticky/sticky.py:603
+#: usr/lib/sticky/sticky.py:919
+msgid "Preferences"
+msgstr "ການຕັ້ງຄ່າ"
+
+#: usr/lib/sticky/manager.py:310
+msgid "Keyboard Shortcuts"
+msgstr "ປຸ່ມລັດແປ້ນພິມ"
+
+#: usr/lib/sticky/manager.py:315 usr/lib/sticky/sticky.py:1156
+msgid "About"
+msgstr "ກ່ຽວກັບ"
+
+#: usr/lib/sticky/sticky.py:47
+msgid "Small Text"
+msgstr "ຂໍ້ຄວາມຂະໜາດນ້ອຍ"
+
+#: usr/lib/sticky/sticky.py:48
+msgid "Normal Text"
+msgstr "ຂໍ້ຄວາມຂະໜາດປົກກະຕິ"
+
+#: usr/lib/sticky/sticky.py:49
+msgid "Large Text"
+msgstr "ຂໍ້ຄວາມຂະໜາດໃຫຍ່"
+
+#: usr/lib/sticky/sticky.py:50
+msgid "Larger Text"
+msgstr "ຂໍ້ຄວາມຂະໜາດໃຫຍ່ກວ່າ"
+
+#: usr/lib/sticky/sticky.py:54
+msgid "Red"
+msgstr "ສີແດງ"
+
+#: usr/lib/sticky/sticky.py:55
+msgid "Green"
+msgstr "ສີຂຽວ"
+
+#: usr/lib/sticky/sticky.py:56
+msgid "Blue"
+msgstr "ສີຟ້າ"
+
+#: usr/lib/sticky/sticky.py:57
+msgid "Yellow"
+msgstr "ສີເຫຼືອງ"
+
+#: usr/lib/sticky/sticky.py:58
+msgid "Purple"
+msgstr "ສີມ່ວງ"
+
+#: usr/lib/sticky/sticky.py:59
+msgid "Teal"
+msgstr "ສີຂຽວແກ່"
+
+#: usr/lib/sticky/sticky.py:60
+msgid "Orange"
+msgstr "ສີສົ້ມ"
+
+#: usr/lib/sticky/sticky.py:61
+msgid "Magenta"
+msgstr "ສີບົວແກ່"
+
+#: usr/lib/sticky/sticky.py:76
+msgid "Operations"
+msgstr "ການດຳເນີນການ"
+
+#: usr/lib/sticky/sticky.py:77
+msgid "Move selection up"
+msgstr "ຍ້າຍສ່ວນທີ່ເລືອກຂຶ້ນເທິງ"
+
+#: usr/lib/sticky/sticky.py:78
+msgid "Move selection down"
+msgstr "ຍ້າຍສ່ວນທີ່ເລືອກລົງລຸ່ມ"
+
+#: usr/lib/sticky/sticky.py:79
+msgid "Undo"
+msgstr "ຍົກເລີກການກະທຳ"
+
+#: usr/lib/sticky/sticky.py:80
+msgid "Redo"
+msgstr "ເຮັດຄືນການກະທຳ"
+
+#: usr/lib/sticky/sticky.py:81 usr/lib/sticky/sticky.py:516
+msgid "Toggle Checklist"
+msgstr "ສະຫຼັບລາຍການກວດສອບ"
+
+#: usr/lib/sticky/sticky.py:82 usr/lib/sticky/sticky.py:520
+msgid "Toggle Bullets"
+msgstr "ສະຫຼັບຫົວຂໍ້ຍ່ອຍ"
+
+#: usr/lib/sticky/sticky.py:84
+msgid "Formatting"
+msgstr "ການຈັດຮູບແບບ"
+
+#: usr/lib/sticky/sticky.py:85 usr/lib/sticky/sticky.py:471
+#: usr/lib/sticky/sticky.py:472
+msgid "Bold"
+msgstr "ຕົວໜາ"
+
+#: usr/lib/sticky/sticky.py:86 usr/lib/sticky/sticky.py:476
+#: usr/lib/sticky/sticky.py:477
+msgid "Italic"
+msgstr "ຕົວອຽງ"
+
+#: usr/lib/sticky/sticky.py:87 usr/lib/sticky/sticky.py:481
+#: usr/lib/sticky/sticky.py:482
+msgid "Fixed Width"
+msgstr "ຄວາມກວ້າງຄົງທີ່"
+
+#: usr/lib/sticky/sticky.py:88 usr/lib/sticky/sticky.py:486
+#: usr/lib/sticky/sticky.py:487
+msgid "Underline"
+msgstr "ຂີດກ້ອງ"
+
+#: usr/lib/sticky/sticky.py:89 usr/lib/sticky/sticky.py:491
+#: usr/lib/sticky/sticky.py:492
+msgid "Strikethrough"
+msgstr "ຂີດຂ້າ"
+
+#: usr/lib/sticky/sticky.py:90 usr/lib/sticky/sticky.py:496
+#: usr/lib/sticky/sticky.py:497
+msgid "Highlight"
+msgstr "ເນັ້ນຂໍ້ຄວາມ"
+
+#: usr/lib/sticky/sticky.py:91 usr/lib/sticky/sticky.py:501
+#: usr/lib/sticky/sticky.py:502
+msgid "Header"
+msgstr "ຫົວຂໍ້"
+
+#: usr/lib/sticky/sticky.py:96
+msgid "Top Left"
+msgstr "ເທິງຊ້າຍ"
+
+#: usr/lib/sticky/sticky.py:97
+msgid "Top Center"
+msgstr "ເທິງກາງ"
+
+#: usr/lib/sticky/sticky.py:98
+msgid "Top Right"
+msgstr "ເທິງຂວາ"
+
+#: usr/lib/sticky/sticky.py:99
+msgid "Center Left"
+msgstr "ກາງຊ້າຍ"
+
+#: usr/lib/sticky/sticky.py:100
+msgid "Center"
+msgstr "ກາງ"
+
+#: usr/lib/sticky/sticky.py:101
+msgid "Center Right"
+msgstr "ກາງຂວາ"
+
+#: usr/lib/sticky/sticky.py:102
+msgid "Bottom Left"
+msgstr "ລຸ່ມຊ້າຍ"
+
+#: usr/lib/sticky/sticky.py:103
+msgid "Bottom Center"
+msgstr "ລຸ່ມກາງ"
+
+#: usr/lib/sticky/sticky.py:104
+msgid "Bottom Right"
+msgstr "ລຸ່ມຂວາ"
+
+#: usr/lib/sticky/sticky.py:172
+msgid "Note Color"
+msgstr "ສີບັນທຶກ"
+
+#: usr/lib/sticky/sticky.py:189
+msgid "Rename"
+msgstr "ປ່ຽນຊື່"
+
+#: usr/lib/sticky/sticky.py:197 usr/lib/sticky/sticky.py:428
+#: usr/lib/sticky/sticky.py:547
+msgid "Delete Note"
+msgstr "ລຶບບັນທຶກ"
+
+#: usr/lib/sticky/sticky.py:204 usr/lib/sticky/sticky.py:899
+msgid "New Note"
+msgstr "ບັນທຶກໃໝ່"
+
+#: usr/lib/sticky/sticky.py:210
+msgid "Format"
+msgstr "ຮູບແບບ"
+
+#: usr/lib/sticky/sticky.py:409
+msgid "undo"
+msgstr "ຍົກເລີກການກະທຳ"
+
+#: usr/lib/sticky/sticky.py:413
+msgid "redo"
+msgstr "ເຮັດຄືນການກະທຳ"
+
+#: usr/lib/sticky/sticky.py:419
+msgid "Set Title"
+msgstr "ຕັ້ງຫົວຂໍ້"
+
+#: usr/lib/sticky/sticky.py:419
+msgid "Edit Title"
+msgstr "ແກ້ໄຂຫົວຂໍ້"
+
+#: usr/lib/sticky/sticky.py:424
+msgid "Duplicate Note"
+msgstr "ສຳເນົາບັນທຶກ"
+
+#: usr/lib/sticky/sticky.py:436
+msgid "Only on This Workspace"
+msgstr "ສະເພາະພື້ນທີ່ເຮັດວຽກນີ້"
+
+#: usr/lib/sticky/sticky.py:440
+msgid "Always on Visible Workspace"
+msgstr "ຢູ່ເທິງພື້ນທີ່ເຮັດວຽກທີ່ເຫັນສະເໝີ"
+
+#: usr/lib/sticky/sticky.py:452
+msgid "Always on Top"
+msgstr "ຢູ່ເທິງສຸດສະເໝີ"
+
+#: usr/lib/sticky/sticky.py:547
+msgid "Are you sure you want to remove this note?"
+msgstr "ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບບັນທຶກນີ້?"
+
+#: usr/lib/sticky/sticky.py:607
+msgid "Show notes on all desktops"
+msgstr "ສະແດງບັນທຶກໃນທຸກໜ້າຈໍ"
+
+#: usr/lib/sticky/sticky.py:608
+msgid "Show in taskbar"
+msgstr "ສະແດງໃນແຖບວຽກ"
+
+#: usr/lib/sticky/sticky.py:609
+msgid "Tray icon"
+msgstr "ໄອຄອນຖາດລະບົບ"
+
+#: usr/lib/sticky/sticky.py:610
+msgid "Show the main window automatically"
+msgstr "ສະແດງໜ້າຕ່າງຫຼັກໂດຍອັດຕະໂນມັດ"
+
+#: usr/lib/sticky/sticky.py:611
+msgid "General"
+msgstr "ທົ່ວໄປ"
+
+#: usr/lib/sticky/sticky.py:615
+msgid "Default height"
+msgstr "ຄວາມສູງເລີ່ມຕົ້ນ"
+
+#: usr/lib/sticky/sticky.py:616
+msgid "Default width"
+msgstr "ຄວາມກວ້າງເລີ່ມຕົ້ນ"
+
+#: usr/lib/sticky/sticky.py:618
+msgid "Default position"
+msgstr "ຕຳແໜ່ງເລີ່ມຕົ້ນ"
+
+#: usr/lib/sticky/sticky.py:622 usr/lib/sticky/sticky.py:627
+msgid "Cycle Colors"
+msgstr "ສີແບບວົນຮອບ"
+
+#: usr/lib/sticky/sticky.py:624 usr/lib/sticky/sticky.py:629
+msgid "Default color"
+msgstr "ສີເລີ່ມຕົ້ນ"
+
+#: usr/lib/sticky/sticky.py:631
+msgid "Font"
+msgstr "ຟອນ"
+
+#: usr/lib/sticky/sticky.py:632
+msgid "Show spelling mistakes"
+msgstr "ສະແດງຂໍ້ຜິດພາດການສະກົດຄຳ"
+
+#: usr/lib/sticky/sticky.py:634 usr/lib/sticky/sticky.py:754
+#: usr/lib/sticky/sticky.py:851 usr/lib/sticky/sticky.py:883
+#: usr/lib/sticky/sticky.py:1157 usr/share/sticky/manager.ui.h:1
+msgid "Notes"
+msgstr "ບັນທຶກ"
+
+#: usr/lib/sticky/sticky.py:639
+msgid "Automatic backups"
+msgstr "ສຳຮອງຂໍ້ມູນອັດຕະໂນມັດ"
+
+#: usr/lib/sticky/sticky.py:640
+msgid "Time between backups"
+msgstr "ໄລຍະເວລາລະຫວ່າງການສຳຮອງຂໍ້ມູນ"
+
+#: usr/lib/sticky/sticky.py:640
+msgid "hours"
+msgstr "ຊົ່ວໂມງ"
+
+#: usr/lib/sticky/sticky.py:641
+msgid "Set this to zero if you wish to keep all backups indefinitely"
+msgstr "ຕັ້ງຄ່ານີ້ເປັນສູນ ຖ້າທ່ານຕ້ອງການເກັບຂໍ້ມູນສຳຮອງທັງໝົດໄວ້ຕະຫຼອດໄປ"
+
+#: usr/lib/sticky/sticky.py:642
+msgid "Number to keep"
+msgstr "ຈຳນວນທີ່ຈະເກັບໄວ້"
+
+#: usr/lib/sticky/sticky.py:644
+msgid "Backups"
+msgstr "ຂໍ້ມູນສຳຮອງ"
+
+#: usr/lib/sticky/sticky.py:648
+msgid "Start automatically"
+msgstr "ເລີ່ມຕົ້ນອັດຕະໂນມັດ"
+
+#: usr/lib/sticky/sticky.py:649
+msgid "Show notes on the screen"
+msgstr "ສະແດງບັນທຶກເທິງໜ້າຈໍ"
+
+#: usr/lib/sticky/sticky.py:650
+msgid "Automatic start"
+msgstr "ເລີ່ມຕົ້ນອັດຕະໂນມັດ"
+
+#: usr/lib/sticky/sticky.py:668
+msgid "Text Size"
+msgstr "ຂະໜາດຂໍ້ຄວາມ"
+
+#: usr/lib/sticky/sticky.py:852
+msgid ""
+"Would you like to import your notes from Gnote? This will not change your "
+"Gnote notes in any way."
+msgstr ""
+"ທ່ານຕ້ອງການນຳເຂົ້າບັນທຶກຂອງທ່ານຈາກ Gnote ບໍ່? ການກະທຳນີ້ຈະບໍ່ປ່ຽນແປງບັນທຶກ "
+"Gnote ຂອງທ່ານແຕ່ຢ່າງໃດ."
+
+#: usr/lib/sticky/sticky.py:875
+msgid "Group 1"
+msgstr "ກຸ່ມ 1"
+
+#: usr/lib/sticky/sticky.py:884
+msgid "Left click to toggle notes"
+msgstr "ຄລິກຊ້າຍເພື່ອສະຫຼັບການສະແດງບັນທຶກ"
+
+#: usr/lib/sticky/sticky.py:885
+msgid "Middle click to toggle the manager"
+msgstr "ຄລິກກາງເພື່ອສະຫຼັບການສະແດງຕົວຈັດການ"
+
+#: usr/lib/sticky/sticky.py:903
+msgid "Manage Notes"
+msgstr "ຈັດການບັນທຶກ"
+
+#: usr/lib/sticky/sticky.py:925
+msgid "Quit"
+msgstr "ອອກ"
+
+#: usr/lib/sticky/sticky.py:1158 usr/share/sticky/manager.ui.h:2
+msgid "Take notes and stay organized"
+msgstr "ຈົດບັນທຶກ ແລະ ຈັດລະບຽບ"
+
+#: usr/lib/sticky/util.py:79
+msgid "Unfiled"
+msgstr "ບໍ່ໄດ້ຈັດເກັບ"
+
+#: usr/share/sticky/manager.ui.h:3
+msgid "New note"
+msgstr "ບັນທຶກໃໝ່"
+
+#: usr/share/sticky/manager.ui.h:4
+msgid "Remove selected note"
+msgstr "ລຶບບັນທຶກທີ່ເລືອກ"
+
+#: usr/share/sticky/manager.ui.h:5
+msgid "Duplicate selected note"
+msgstr "ສຳເນົາບັນທຶກທີ່ເລືອກ"
